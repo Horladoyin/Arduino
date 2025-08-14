@@ -1,5 +1,4 @@
-# Arduino
-## Arduino Projects – IoT & Embedded Systems Internship
+# Arduino Projects – IoT & Embedded Systems Internship
 
 This repository contains a collection of Arduino-based projects I created during my **IoT and Embedded Systems** internship.  
 Each project focuses on applying embedded programming, electronics, and sensor integration to solve real-world problems.
